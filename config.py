@@ -1,8 +1,8 @@
 import os
 from telethon import TelegramClient
-api_id = 14560088
-api_hash = "74a2665339484da3eaaed5f4fe16da79"
-bot_token = "5503878652:AAFPZWeZ0q_PAPub8JO3nOQxVCi5lmaGl3A"
+api_id = "27442555"
+api_hash = "0c3c0330b8c3ff16e00aa005bb41245a"
+bot_token = ""
 skeleton_url = ""
 
 api_id = os.environ.get('API_ID')
